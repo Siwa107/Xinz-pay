@@ -1,0 +1,2 @@
+# Xinz-pay
+Xinz.pay
